@@ -66,6 +66,6 @@ The project focuses on applying **data analysis, preprocessing, and machine lear
 3. Open Jupyter Notebook:
    ```bash
    jupyter notebook
-4. Run the .ipynb files sequentially
+4. Run the .ipynb files sequentially.
 
 
