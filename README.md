@@ -19,10 +19,10 @@ The project focuses on applying **data analysis, preprocessing, and machine lear
 ---
 
 ##  Project Structure
-├── IITGTiktokNormal-Final.ipynb # Analysis of Normal TikTok accounts
-├── IITGTiktokRUS-Final.ipynb # Analysis of RUS category accounts
-├── IITGTiktokROS-Finla.ipynb # Analysis of ROS category accounts
-├── README.md # Project documentation
+      ├── IITGTiktokNormal-Final.ipynb # Analysis of Normal TikTok accounts
+      ├── IITGTiktokRUS-Final.ipynb # Analysis of RUS category accounts
+      ├── IITGTiktokROS-Finla.ipynb # Analysis of ROS category accounts
+      ├── README.md # Project documentation
 
 ---
 
